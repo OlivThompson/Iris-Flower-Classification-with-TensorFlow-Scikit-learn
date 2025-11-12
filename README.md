@@ -74,11 +74,6 @@ Each sample includes four features:
 ### Results
 
 The assignment extension demonstrates that:
-- The **SVM model** achieves reliable baseline accuracy using a few lines of Scikit-learn code.  
+- The **SVM model** achieves reliable baseline accuracy using Scikit-learn code.  
 - The **neural network** implemented in TensorFlow can achieve similar or improved performance through multiple training epochs.  
 
-This adaptation highlights the flexibility of Python’s machine learning ecosystem and how traditional and neural approaches can complement one another.
-
-***
-
-Would you like me to add a “Project Structure” section describing the file layout (e.g., `iris_classification_tf.py`, `requirements.txt`)?
