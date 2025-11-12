@@ -1,7 +1,7 @@
 
 # Iris Classification with SVM and TensorFlow
 
-This project is an **adaptation of a previous machine learning assignment**, expanded to include a **TensorFlow-based neural network model** in addition to the original **Scikit-learn SVM** implementation. The project demonstrates data preprocessing, visualization, training, and evaluation on the classic **Iris flower dataset**.
+This project is an **adaptation of a previous machine learning assignment**, expanded to include a **TensorFlow-based neural network model** in addition to the original **Scikit-learn SVM** implementation. The project demonstrates data preprocessing, visualization, training, and evaluation on the **Iris flower dataset**.
 
 ***
 
@@ -12,15 +12,13 @@ The purpose of this project is to explore two different approaches to classifyin
 - A **traditional SVM (Support Vector Machine)** classifier using Scikit-learn  
 - A **feed-forward neural network** implemented with TensorFlow’s Keras API  
 
-The project allows comparison between conventional machine learning methods and simple deep learning models on the same dataset.
-
 ***
 
 ### Features
 
 - Loads and visualizes the Iris dataset using **Pandas** and **Matplotlib**
 - Standardizes numeric features using **StandardScaler**
-- Implements and evaluates an **SVM classifier** with accuracy and confusion matrix reports
+- Implements and evaluates an **SVM classifier** with accuracy and matrix reports
 - Builds and trains a **neural network model** in TensorFlow for classification
 - Compares model performance between classical and deep learning methods
 
